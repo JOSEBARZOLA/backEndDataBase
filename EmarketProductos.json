@@ -1,0 +1,221 @@
+[{
+    "id": 1,
+    "title": "Mochila para pc 15' - Fjallraven",
+    "price": 1550.95,
+    "description": "Tu mochila perfecta para el día a día y los paseos por el bosque. con funda acolchada y cierre hermetico.",
+    "category": "men's clothing",
+    "image": "https://i.ibb.co/ts4059r/1.jpg",
+    "rating": {
+        "rate": 3.9,
+        "count": 120
+    }
+}, {
+    "id": 2,
+    "title": "Camiseta casual premium ajustadas para hombre",
+    "price": 900.3,
+    "description": "Estilo ajustado, manga larga, tapeta henley de tres botones, peso ligero y tela suave para un uso cómodo y transpirable, camisa con costuras sólidas con cuello redondo hechas para mayor durabilidad y un gran calce para la ropa de moda casual.",
+    "category": "men's clothing",
+    "image": "https://i.ibb.co/kgL7qGv/2.jpg",
+    "rating": {
+        "rate": 4.1,
+        "count": 259
+    }
+}, {
+    "id": 3,
+    "title": "Chaqueta de algodón para hombre",
+    "price": 8899.99,
+    "description": "Grandes chaquetas de abrigo para primavera/otoño/invierno, adecuadas para muchas ocasiones, como trabajo, senderismo, camping, montaña/escalada, ciclismo, viajes u otras actividades al aire libre.",
+    "category": "men's clothing",
+    "image": "https://i.ibb.co/xqXmWp7/3.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 500
+    }
+}, {
+    "id": 4,
+    "title": "Camiseta casual para hombre Slim Fit",
+    "price": 1500.99,
+    "description": "Camiseta liviana de mangas largas, ajustada al cuerpo con un cuello en v, ideal para las tardes de otoño. ",
+    "category": "men's clothing",
+    "image": "https://i.ibb.co/Mpz5xfG/4.jpg",
+    "rating": {
+        "rate": 2.1,
+        "count": 430
+    }
+}, {
+    "id": 5,
+    "title": "Pulsera de cadena con estación de dragón dorado y plateado para mujer",
+    "price": 8600,
+    "description": "De nuestra colección Legends, el Naga se inspiró en el mítico dragón de agua que protege la perla del océano. Úselo mirando hacia adentro para recibir amor y abundancia, o hacia afuera para protección.",
+    "category": "jewelery",
+    "image": "https://i.ibb.co/vsq7zFP/5.jpg",
+    "rating": {
+        "rate": 4.6,
+        "count": 400
+    }
+}, {
+    "id": 6,
+    "title": "Anillo pequeño de oro macizo",
+    "price": 12000,
+    "description": "Satisfacción garantizada. Devuelva o cambie cualquier pedido dentro de los 30 días. Diseñado y vendido por Hafeez Center.",
+    "category": "jewelery",
+    "image": "https://i.ibb.co/zPLKfCG/6.jpg",
+    "rating": {
+        "rate": 3.9,
+        "count": 70
+    }
+}, {
+    "id": 7,
+    "title": "Anilo de Oro blanco con Diamantes.",
+    "price": 15800,
+    "description": "Anillo de promesa de diamante solitario de compromiso de boda creado clásico para ella. Regalos para consentir más a tu amor por Compromiso, Boda, Aniversario, San Valentín..",
+    "category": "jewelery",
+    "image": "https://i.ibb.co/nf9nQLW/7.jpg",
+    "rating": {
+        "rate": 3,
+        "count": 400
+    }
+}, {
+    "id": 8,
+    "title": "Pendientes Dobles de acero inoxidable chapado en oro rosa",
+    "price": 799.99,
+    "description": "Pendientes tipo túnel con doble acampanado chapados en oro rosa. Hecho de acero inoxidable 316L",
+    "category": "jewelery",
+    "image": "https://i.ibb.co/1GhKMc3/8.jpg",
+    "rating": {
+        "rate": 1.9,
+        "count": 100
+    }
+}, {
+    "id": 9,
+    "title": "WD 2TB Disco externo portatil - USB 3.0 ",
+    "price": 18000,
+    "description": "USB 3.0 y USB 2.0 Transferencias de datos rápidas Mejora el rendimiento de la PC Alta capacidad; Compatibilidad NTFS formateado para Windows 10, Windows 8.1, Windows 7; Es posible que sea necesario reformatear para otros sistemas operativos; La compatibilidad puede variar según la configuración de hardware y el sistema operativo del usuario",
+    "category": "electronics",
+    "image": "https://i.ibb.co/SxKCnSf/9.jpg",
+    "rating": {
+        "rate": 3.3,
+        "count": 203
+    }
+}, {
+    "id": 10,
+    "title": "SanDisk 1TB Diso SSD Interno - SATA III 6 Gb/s",
+    "price": 12000,
+    "description": "Aumenta el rendimiento de escritura en ráfaga, lo que lo hace ideal para cargas de trabajo típicas de PC El equilibrio perfecto entre rendimiento y confiabilidad Velocidades de lectura/escritura de hasta 535 MB/s/450 MB/s, Fácil actualización para un arranque, apagado, carga de aplicaciones y respuesta más rápidos (en comparación con el disco duro SATA de 2,5 a 5400 RPM)",
+    "category": "electronics",
+    "image": "https://i.ibb.co/2tMxM4H/10.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 470
+    }
+}, {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 5000,
+    "description": "Se aplica flash 3D NAND para ofrecer altas velocidades de transferencia Velocidades de transferencia notables que permiten un arranque más rápido y un mejor rendimiento general del sistema. La avanzada tecnología SLC Cache permite aumentar el rendimiento y prolongar la vida útil. Diseño delgado de 7 mm adecuado para ultrabooks y portátiles ultradelgados. Admite el comando TRIM, la tecnología Garbage Collection, RAID y ECC (Comprobación y corrección de errores) para proporcionar un rendimiento optimizado y una mayor confiabilidad.",
+    "category": "electronics",
+    "image": "https://i.ibb.co/c3G9gC2/11.jpg",
+    "rating": {
+        "rate": 4.8,
+        "count": 319
+    }
+}, {
+    "id": 12,
+    "title": "Disco portatil externo WD 4TB para Play Station 4",
+    "price": 25000,
+    "description": "Amplíe su experiencia de juego de PS4, juegue en cualquier lugar Configuración rápida y fácil Diseño elegante con alta capacidad, garantía limitada del fabricante de 3 años",
+    "category": "electronics",
+    "image": "https://i.ibb.co/FYzxYdW/12.jpg",
+    "rating": {
+        "rate": 4.8,
+        "count": 400
+    }
+}, {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 120000,
+    "description": "Pantalla 21' IPS de pantalla ancha Full HD (1920 x 1080) de 5 pulgadas y tecnología Radeon free Sync. No hay compatibilidad con el montaje VESA Frecuencia de actualización: 75 Hz - Uso del puerto HDMI Diseño de cuadro cero | ultrafino | Tiempo de respuesta de 4 ms | Relación de aspecto del panel IPS: 16: 9. Color admitido: 16. 7 millones de colores. Brillo - 250 nit Ángulo de inclinación -5 grados a 15 grados. Ángulo de visión horizontal: 178 grados. Ángulo de visión vertical: 178 grados 75 hercios",
+    "category": "electronics",
+    "image": "https://i.ibb.co/jHSNRfL/13.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 250
+    }
+}, {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Monitor Curvo Ultra fino - QLED ",
+    "price": 40000.99,
+    "description": "MONITOR DE JUEGOS CURVADO SUPER ULTRAWIDE 32:9 DE 49 PULGADAS con pantalla dual de 27 pulgadas una al lado de la otra TECNOLOGÍA QUANTUM DOT (QLED), compatibilidad con HDR y calibración de fábrica que proporciona un contraste y un color increíblemente realistas y precisos ALTA VELOCIDAD DE REFRESCO DE 144 HZ y un tiempo de respuesta ultrarrápido de 1 ms elimine el desenfoque de movimiento, el efecto fantasma y reduzca el retraso de entrada",
+    "category": "electronics",
+    "image": "https://i.ibb.co/cvjDMvW/14.jpg",
+    "rating": {
+        "rate": 2.2,
+        "count": 140
+    }
+}, {
+    "id": 15,
+    "title": "Chaqueta de snowboard 3 en 1 para mujer Abrigos de invierno",
+    "price": 8900.99,
+    "description": "100% poliéster; Tejido del forro desmontable: forro polar cálido. Forro funcional desmontable: respetuoso con la piel, ligero y cálido. Chaqueta con forro de cuello alto, te mantiene caliente en climas fríos. Bolsillos con cremallera: 2 bolsillos con cremallera para las manos, 2 bolsillos con cremallera en el pecho (suficientes para guardar tarjetas o llaves) y 1 bolsillo oculto en el interior. Los bolsillos con cremallera para las manos y el bolsillo oculto mantienen tus cosas seguras. Diseño humanizado: Capucha ajustable y desmontable y puño ajustable para evitar el viento y el agua, para un ajuste cómodo. El diseño desmontable 3 en 1 brinda más comodidad, puede separar el abrigo y el interior según sea necesario, o usarlos juntos.",
+    "category": "women's clothing",
+    "image": "https://i.ibb.co/gVyp8MK/15.jpg",
+    "rating": {
+        "rate": 2.6,
+        "count": 235
+    }
+}, {
+    "id": 16,
+    "title": "Chaqueta motera de piel sintética con capucha extraíble para mujer",
+    "price": 10000,
+    "description": "100 % POLIURETANO (cáscara) 100 % POLIÉSTER (forro) 75 % POLIÉSTER 25 % ALGODÓN (SUETER), material de piel sintética para estilo y comodidad / 2 bolsillos delanteros, chaqueta de piel sintética estilo denim con capucha 2 por uno, detalle de botón en cintura / Detalle de costuras en los costados, LAVAR A MANO SOLAMENTE / NO USAR LEJÍA / SECAR AL LÍNEA / NO PLANCHAR",
+    "category": "women's clothing",
+    "image": "https://i.ibb.co/7j0dcnb/16.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 340
+    }
+}, {
+    "id": 17,
+    "title": "Campera de mujer cortavientos impermeables de escalada a rayas",
+    "price": 7800,
+    "description": "Ligero, perfecto para viajes o uso informal --- Manga larga con capucha, diseño de cintura con cordón ajustable. Chubasquero con cierre frontal de botón y cremallera, totalmente forrado a rayas y El chubasquero tiene 2 bolsillos laterales son de buen tamaño para guardar todo tipo de cosas, cubre las caderas y la capucha es amplia pero no exagera. Los cordones ajustables le dan un estilo real.",
+    "category": "women's clothing",
+    "image": "https://i.ibb.co/WDyCK85/17.jpg",
+    "rating": {
+        "rate": 3.8,
+        "count": 679
+    }
+}, {
+    "id": 18,
+    "title": "Camiseta de manga corta con cuello barco en V para mujer ",
+    "price": 8900.85,
+    "description": "Fabricado en EE. UU. o importado, no usar lejía, tela liviana con gran elasticidad para mayor comodidad, mangas y escote acanalados/costura doble en el dobladillo inferior.",
+    "category": "women's clothing",
+    "image": "https://i.ibb.co/MGgtrsh/18.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 130
+    }
+}, {
+    "id": 19,
+    "title": "Camiseta de manga corta para mujer - Opna",
+    "price": 5400,
+    "description": "100 % poliéster, lavar a máquina, 100 % interlock de poliéster catiónico, lavar a máquina y preencogido para un ajuste perfecto, ligero, espacioso y muy transpirable con tela que absorbe la humedad que ayuda a mantener la humedad alejada, tela suave y ligera con cómodo cuello en V y un ajuste más delgado, ofrece una silueta elegante y más femenina y mayor comodidad.",
+    "category": "women's clothing",
+    "image": "https://i.ibb.co/xqzwnkm/19.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+}, {
+    "id": 20,
+    "title": "Camiseta de mujer casual algodón corto",
+    "price": 4800,
+    "description": "95 % algodón, 5 % elastano, características: informal, manga corta, estampado de letras, cuello en V, camisetas de moda, la tela es suave y tiene algo de elasticidad. Ocasión: informal/oficina/playa/escuela/hogar/calle. Temporada: primavera, verano.",
+    "category": "women's clothing",
+    "image": "https://i.ibb.co/98WhN5H/20.jpg",
+    "rating": {
+        "rate": 3.6,
+        "count": 145
+    }
+}]
